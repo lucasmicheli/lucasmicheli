@@ -1,6 +1,7 @@
 # Hi there 👋🏻 I'm Lucas
 
-I do software with love ❤️ and good taste in design (misaligned things are forbidden) 👀
+I create software with love ❤️ and a good sense of design (misalignment is forbidden) 👀
+
 
 ## 📫 How to reach me
 
